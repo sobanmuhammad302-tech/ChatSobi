@@ -1,0 +1,6 @@
+{
+  "name": "ChatSobi",
+  "description": "Advanced multi-modal AI ecosystem with offline-first universal knowledge, online media & editing studio, and live real-time voice & video AI agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

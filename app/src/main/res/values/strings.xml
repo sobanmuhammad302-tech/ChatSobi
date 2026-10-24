@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatSobi</string>
+    <string name="tagline">Next-Gen Multi-Modal AI Ecosystem</string>
+    <string name="mode_offline_knowledge">Offline Knowledge</string>
+    <string name="mode_media_studio">Media Studio</string>
+    <string name="mode_live_agent">Live Sobi AI</string>
+    <string name="offline_engine_active">Offline Engine Active</string>
+    <string name="cloud_engine_ready">Cloud Engine Ready</string>
+    <string name="input_placeholder">Ask ChatSobi anything (math, code, science, ideas)...</string>
+    <string name="sobi_greeting">Hello! I am Sobi, your multi-modal AI companion. How can I assist your study, workflow, or creativity today?</string>
+</resources>
